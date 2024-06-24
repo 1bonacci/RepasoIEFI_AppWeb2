@@ -1,0 +1,5 @@
+ 
+                    {
+                        "productos": [{"id":2,"nombre":"Smartphone","categoria":"Electrónica","marca":"Samsung","stock":30},{"id":3,"nombre":"Zapatos Deportivos","categoria":"Ropa y Accesorios","marca":"Nike","stock":25},{"id":4,"nombre":"Televisor","stock":50,"categoria":"Electrónica","marca":"Sony"},{"id":5,"nombre":"Auriculares","categoria":"Accesorios","marca":"Sony","stock":50},{"id":7,"nombre":"prueba2E","stock":5,"categoria":"PruebaE","marca":"NvidiaE"},{"id":8,"nombre":"Play 5","stock":75,"categoria":"Electronica","marca":"Sony"},{"id":9,"nombre":"sdasda","marca":"asda","categoria":"asdasd","stock":50},{"id":10,"nombre":"popa","stock":15,"categoria":"pap","marca":"pop"},{"id":11,"nombre":"Short","marca":"gu","categoria":"rop","stock":2}]
+                    }
+                

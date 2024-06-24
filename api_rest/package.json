@@ -1,0 +1,14 @@
+{
+  "name": "tp2-aw2-rasero-agustin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon servidor.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "aw2-express-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:rutas": "nodemon app-rutas-verbos.mjs",
+    "dev:estatico": "nodemon app-servidor-estatico.mjs",
+    "dev:mid": "nodemon app-middleware.mjs",
+    "dev:ruteo": "nodemon app-ruteo.mjs",
+    "dev:func": "nodemon app-funciones.mjs",
+    "dev:envwin": "set PUERTO=3000 && nodemon app-variables-entorno.mjs",
+    "dev:env": "PUERTO=3000 nodemon app-variables-entorno.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
